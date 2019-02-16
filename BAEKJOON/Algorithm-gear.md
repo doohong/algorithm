@@ -45,7 +45,7 @@ categories: Algorithm
 - 3번 톱니바퀴의 12시방향이 N극이면 0점, S극이면 4점
 - 4번 톱니바퀴의 12시방향이 N극이면 0점, S극이면 8점
 ## 입출력 예제
-![gear7](/images/gear7.png)
+![gear7](/images/gear7.PNG)
 
 ## 소스 코드
 **자바**
