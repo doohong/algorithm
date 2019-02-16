@@ -44,7 +44,6 @@ tank → kick → know → wheel → land → dream → mother → robot → tan
 |3|[tank, kick, know, wheel, land, dream, mother, robot, tank]|[3,3]|
 |5|[hello, observe, effect, take, either, recognize, encourage, ensure, establish, hang, gather, refer, reference, estimate, executive]|[0,0]|
 |24|[hello, one, even, never, now, world, draw]|[1,3]|
-[출처](http://hsin.hr/coci/archive/2010_2011/contest4_tasks.pdf)
 ## 소스 코드
 **자바**
 ```java
