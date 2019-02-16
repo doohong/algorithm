@@ -9,7 +9,7 @@ categories: Algorithm
 ## 문제 설명
 Leo는 카펫을 사러 갔다가 아래 그림과 같이 중앙에는 빨간색으로 칠해져 있고 모서리는 갈색으로 칠해져 있는 격자 모양 카펫을 봤습니다.
 
-![carpet](/images/algoritm/carpet.png)
+![carpet](/images/carpet.png)
 
 Leo는 집으로 돌아와서 아까 본 카펫의 빨간색과 갈색으로 색칠된 격자의 개수는 기억했지만, 전체 카펫의 크기는 기억하지 못했습니다.
 
